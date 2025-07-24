@@ -48,5 +48,3 @@ To understand the digital habits of Indian kids, focusing on:
 - Compare urban vs rural screen time behavior.
 
 ---
-
-> 🔗 Created as part of a Data Analytics Portfolio Project using Power BI (2025).
